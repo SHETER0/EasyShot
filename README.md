@@ -1,0 +1,3 @@
+# EasyShot
+
+ScreenCaptureTool With OCR 
