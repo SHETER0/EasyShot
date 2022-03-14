@@ -2,4 +2,4 @@
 
 ScreenCaptureTool With OCR 
 
-About <a href="/" >Easyshot</a>
+About <a href="https://sheterapps.com/easyshot/" target="_blank">Easyshot</a>
