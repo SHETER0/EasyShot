@@ -12,7 +12,7 @@
 An app that allow you to make a screen shot in 2 clicks. Together with Tesseract OCR, an Engine that Extract Text from images, It forms one of the strongest screen capture tools one can ever use and experience.
 
 # Screenshot:
-<img src="./ScreenShot(11).png">
+<img src="./ezgif-1-c597d804f8.gif">
 
 
 ## 🧰 Features
