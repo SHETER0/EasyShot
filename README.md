@@ -1,7 +1,7 @@
 <h1 align="center">
     <br>
     <p>Easyshot</p>
-<img src="./ScreenShot(13).png">
+<img src="./ScreenShot(15).png">
     
 [![Github all releases](https://img.shields.io/github/downloads/SHETER0/EasyShot/Total.svg?style=for-the-badge)](https://GitHub.com/SHETER0/EasyShot/releases/) [![GitHub release](https://img.shields.io/github/release/SHETER0/EasyShot.svg?style=for-the-badge)](https://GitHub.com/SHETER0/EasyShot/releases/) [![GitHub issues](https://img.shields.io/github/issues/SHETER0/EasyShot.svg?style=for-the-badge)](https://GitHub.com/SHETER0/EasyShot/issues/) 
 
