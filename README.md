@@ -11,9 +11,11 @@
 # 📚 About
 An app that allow you to make a screen shot in 2 clicks. Together with Tesseract OCR, an Engine that Extract Text from images, It forms one of the strongest screen capture tools one can ever use and experience.
 
-# Screenshot:
+# Selection:
 <img src="./ezgif-1-c597d804f8.gif">
 
+# Settings:
+<img src="./ScreenShot(13).png">
 
 ## 🧰 Features
 A list of some of the features that are included in Easyshot
