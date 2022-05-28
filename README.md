@@ -19,9 +19,9 @@ An app that allow you to make a screen shot in 2 clicks. Together with Tesseract
 
 ## 🧰 Features
 A list of some of the features that are included in Easyshot
-* 🔐 **Fast screenshot** - select any area on your desktop and take its screenshot with 2 button-clicks.
-* 🔒 **Easy to use Application** - Simple and intuitive user interface makes your work with the app easier and faster.
-* 💎 **Image To Text** - Extract text from any image with Tesseract OCR.
+* 🚀 **Fast screenshot** - select any area on your desktop and take its screenshot with 2 button-clicks.
+* 🔆 **Easy to use Application** - Simple and intuitive user interface makes your work with the app easier and faster.
+* 📄 **Image To Text** - Extract text from any image with Tesseract OCR.
 * 🖥️ **Powerful editors** - You can edit screenshots instantly when taking them.
 
 
