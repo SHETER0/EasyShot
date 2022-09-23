@@ -26,10 +26,10 @@ A list of some of the features that are included in Easyshot
 
 
 ## 📞 Issues
-If you have any issues feel free to open an issue or contact me on Discord (SHETER#9999).
+If you have any issues feel free to open an issue or contact me on Discord (SHETER#6133).
 
 ## 🧲 Extra
-__Created by SHETER#9999__
+__Created by SHETER#6133__
 * [Website](https://sheterapps.com)
 * [Twitter](https://twitter.com/SHETER9)
 * [Instagram](https://www.instagram.com/sheter0/)
