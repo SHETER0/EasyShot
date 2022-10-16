@@ -1,7 +1,7 @@
 <h1 align="center">
     <br>
     <p>Easyshot</p>
-<img src="./Screenshot 2022-10-16 051933.png">
+<img src="./Screenshot 2022-10-16 053631.png">
     
 [![GitHub release](https://img.shields.io/github/release/SHETER0/EasyShot.svg?style=for-the-badge)](https://GitHub.com/SHETER0/EasyShot/releases/) [![GitHub issues](https://img.shields.io/github/issues/SHETER0/EasyShot.svg?style=for-the-badge)](https://GitHub.com/SHETER0/EasyShot/issues/) 
 
@@ -13,7 +13,7 @@ EasySHot allows you to make a screen shot in 2 clicks. Together with Tesseract O
 
 
 # Settings:
-<img src="Screenshot 2022-10-16 0519332.png">
+<img src="ScreenShot(29).png">
 
 ## 🧰 Features
 A list of some of the features that are included in Easyshot
