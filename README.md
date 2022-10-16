@@ -1,7 +1,7 @@
 <h1 align="center">
     <br>
     <p>Easyshot</p>
-<img src="./ScreenShot(15).png">
+<img src="./Screenshot 2022-10-16 051933.png">
     
 [![GitHub release](https://img.shields.io/github/release/SHETER0/EasyShot.svg?style=for-the-badge)](https://GitHub.com/SHETER0/EasyShot/releases/) [![GitHub issues](https://img.shields.io/github/issues/SHETER0/EasyShot.svg?style=for-the-badge)](https://GitHub.com/SHETER0/EasyShot/issues/) 
 
@@ -9,13 +9,11 @@
 </h1>
 
 # 📚 About
-An app that allow you to make a screen shot in 2 clicks. Together with Tesseract OCR, an Engine that Extract Text from images, It forms one of the strongest screen capture tools one can ever use and experience.
+EasySHot allows you to make a screen shot in 2 clicks. Together with Tesseract OCR, an Engine that Extract Text from images, It forms one of the strongest screen capture tools one can ever use and experience.
 
-# Selection:
-<img src="./ezgif-1-c597d804f8.gif">
 
 # Settings:
-<img src="./ScreenShot(13).png">
+<img src="Screenshot 2022-10-16 0519332.png">
 
 ## 🧰 Features
 A list of some of the features that are included in Easyshot
