@@ -44,14 +44,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasyShot.exe" size="864256">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EasyShot.exe" size="878592">
       <assemblyIdentity name="EasyShot" version="1.1.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WtzfBk9v7VYfusdSAodB/lVRUyy0QKxuC9f3shfb3CY=</dsig:DigestValue>
+        <dsig:DigestValue>vw4ITqMy64kUZxzw1x1fpi4UHORlElPsTKmuXFiQ1Ws=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,7 +63,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aNxpYajHM1LM2bn92cADlg88hYVbN5U5bDFNNwd84v0=</dsig:DigestValue>
+        <dsig:DigestValue>5LT1bESynDoUB6QD1VCMNRDKc8ENSvBk4l4/551n+iQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -97,69 +97,6 @@
       <dsig:DigestValue>7NdrU011lYtDp/kZD5AGSIDzylV9zGMQftwRJ3lB/9Y=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\ChangeColor.BackgroundImage.png" size="2398">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>X2KBS6HmX7+9rGkV91UJw4VbaLtOuOzD6NzzTW9vKxQ=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\circle.png" size="2785">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ISapEGEl7nJqDpNAsnfdYrXLznv5GHtWeeXOYS6CdL8=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\Close.BackgroundImage.png" size="2849">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TSNOornAXf6DnBT8Nr9PVpTLewHKHEuTniIHEBCsgf8=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\Copybtn.BackgroundImage.png" size="2497">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HsWTrogpZwtC0xUZIrZiEibhF5O9frxLMAeHY7j3W/w=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\CopyImg.BackgroundImage.png" size="2068">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yAFc+BaqWxu7vCVkL9zeMMinu3BgjIIrtfAq5KVpCbQ=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\drawLine.BackgroundImage.png" size="387">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DjnIiBnGmIa0/tBdmOAS1GDILKcdnivkVc2qHrNOlro=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\DrawRecAngle.BackgroundImage.png" size="485">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SISHTj+TfuAf4yphcUbmRl/22+m5zDcY3P8QbQHDF6c=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="Resources\EasyShot.ico" size="103902">
     <hash>
       <dsig:Transforms>
@@ -167,51 +104,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>7NdrU011lYtDp/kZD5AGSIDzylV9zGMQftwRJ3lB/9Y=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\HideTXT.BackgroundImage.png" size="1488">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AWKIYjwYszpNxzgszkGCbSVH5xuNdurILChyCIOIyLM=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\pencil.BackgroundImage.png" size="1280">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oowvMIAy/GOvXjPncOMZ/cwr50HWb6c/stg712S4l8I=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\triangle.png" size="2126">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qmYoU7bxGLdgGNENB8YR1s3msn1ZsOc7fGHF3fnFaM4=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\TypeText.BackgroundImage.png" size="1420">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>SYxUyz4Ezkje5Oz8gX5DDXhwPSTlTqWx6fgoETAzaHM=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Resources\undo.BackgroundImage.png" size="1099">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qlgR020HR3YNqHEMO6bqcSCpqKQM2+pIelZwRW7UfYE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
@@ -231,4 +123,10 @@
       <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
     </application>
   </compatibility>
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+      <longPathAware xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">true</longPathAware>
+    </windowsSettings>
+  </application>
 </asmv1:assembly>
