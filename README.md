@@ -29,6 +29,5 @@ If you have any issues feel free to open an issue or contact me on Discord (SHET
 ## 🧲 Extra
 __Created by SHETER#6133__
 * [Website](https://sheterapps.com)
-* [Twitter](https://twitter.com/SHETER9)
 * [Instagram](https://www.instagram.com/sheter0/)
 </br>
